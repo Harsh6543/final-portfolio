@@ -1,2 +1,3 @@
 Contact information
 Contact form: name, email, message
+Fixed typo in contact
