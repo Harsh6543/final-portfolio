@@ -1,1 +1,2 @@
 Homepage content
+Skills: JavaScript, Git, GitHub
